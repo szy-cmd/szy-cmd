@@ -1,7 +1,7 @@
 # Zaafir Ejaz (szy-cmd)
 
 **Computer Science Student @ DHA Suffa University**  
-Focus: Cybersecurity, AI/ML, Full-Stack Development  
+Focus: Cybersecurity, AI/ML
 
 ---
 
