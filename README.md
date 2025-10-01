@@ -1,16 +1,36 @@
-## Hi there 👋
+Zaafir Ejaz (szy-cmd)
 
-<!--
-**szy-cmd/szy-cmd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Science Student @ DHA Suffa University
+Focus: Cybersecurity, AI/ML, Full-Stack Development
 
-Here are some ideas to get you started:
+👨‍💻 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently working on: Strat-E-GPT (F1 strategy + AI) and Adv Homelab Security
+
+Exploring: Cybersecurity labs (Kali Linux, TryHackMe, OSCP prep)
+
+Interests: Cloud infrastructure, system security, AI/ML models
+
+⚡ Skills
+
+Languages: Python, C++, Java, JavaScript
+Web: React, Node.js, Express, Tailwind CSS
+Databases: MySQL, SQLite, MongoDB
+Tools & Platforms: Git, Docker, Linux, Proxmox, Kali Linux
+Areas: Networking, Security, Machine Learning
+
+📂 Featured Projects
+
+Strat-E-GPT
+ — F1 Strategy + AI system
+
+Adv Homelab Security
+ — Security hardening and automation for home labs
+
+🔗 Connect
+
+LinkedIn: Zaafir Ejaz
+
+GitHub: szy-cmd
+
+Email: your-email@example.com
