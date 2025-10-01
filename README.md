@@ -31,7 +31,6 @@ Focus: Cybersecurity, AI/ML, Full-Stack Development
 ## 🔗 Connect
 - [LinkedIn](https://www.linkedin.com/in/zaafir-ejaz-571678381/)  
 - [GitHub](https://github.com/szy-cmd)  
-- Email: *zaafirejaz@gmail.com
-*  
+- Email: *zaafirejaz@gmail.com*
 
 ---
